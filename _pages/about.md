@@ -31,11 +31,22 @@ Water vapor distribution in July 2014 - Amazing!
 
 * **November 06, 2018**: A paper was accepted in the Remote Sensing Applications: Society and Environment - 
 *Remote sensing of large reservoir in the drought years: Implications on surface water change and turbidity variability of Sobradinho reservoir (Northeast Brazil)*.
+Research highlights:
+- Critical surface water change caused by drought years between 2013 – 2017;
+- Regional precipitation analysis shows the rainfall deficit over catchment area;
+- The framework for continuous monitoring of Sobradinho during water shortage.
+
 <p align="center">
 <img src="/images/SOB.jpg" style="width: 200px;"/>
 </p>
 
-* **September 26, 2018**: A paper was accepted in the Remote Sensing of Environmental: [*Continental-scale surface reflectance product from CBERS-4 MUX data: Assessment of atmospheric correction method using coincident Landsat observations*](https://doi.org/10.1016/j.rse.2018.09.017). This study provides a relevant information for remote sensing community about atmospheric correction for CBERS MUX dataset. Although CBERS is a long-term Earth Observation program (~30 years), there are few publications about this dataset in peer-review journals. We believe that our findings are helpful to inform the recent progress in the atmospheric correction algorithm for multi-spectral MUX sensor.
+* **September 26, 2018**: A paper was accepted in the Remote Sensing of Environmental: [*Continental-scale surface reflectance product from CBERS-4 MUX data: Assessment of atmospheric correction method using coincident Landsat observations*](https://doi.org/10.1016/j.rse.2018.09.017). 
+This study provides a relevant information for remote sensing community about atmospheric correction for CBERS MUX dataset. Although CBERS is a long-term Earth Observation program (~30 years), there are few publications about this dataset in peer-review journals. We believe that our findings are helpful to inform the recent progress in the atmospheric correction algorithm for multi-spectral MUX sensor.
+Research highlights:
+- A practical approach was developed for atmospheric correction of CBERS-4 MUX data;
+- First assessment of CBERS-4 MUX surface reflectance across South America;
+- Moderate atmospheric products are used as ancillary products in the approach;
+- MUX surface reflectance (SR) was compared to Landsat-8 SR e AERONET-derived SR.
 
 <p align="center">
 <img src="/images/CBERS.jpg" style="width: 200px;"/>
