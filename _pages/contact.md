@@ -24,10 +24,10 @@ author_profile: true
 <br />
 
 **Collaboration (INPE)**
-<address>
+
   [Image Processing Division](http://www.dpi.inpe.br/DPI/) - INPE
   <br />
   [Instrumentation Laboratory for Aquatic Systems (LabISA)](http://www.dpi.inpe.br/labisa/)
   <br />
   PI: Claudio C.F. Barbosa and Evlyn M.L.M. Novo
-</address>
+
