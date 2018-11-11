@@ -17,6 +17,8 @@ author_profile: true
 
 ## Conference proceedings
 
+Novo, E.M.L.M.; **Martins, V.S.**; Affonso, A.G.; Montanher, O.C.; de Carvalho, L.A.S.; Barbosa, C.C.F. [*Avalição de imagens WFI/CBERS-4 no estudo dos tipos de água da Reserva de Desenvolvimento Sustentável de Mamirauá (AM)*](http://marte2.sid.inpe.br/rep/sid.inpe.br/marte2/2017/10.23.19.28.32?metadatarepository=sid.inpe.br/marte2/2017/10.23.19.28.33&ibiurl.backgroundlanguage=pt-BR&ibiurl.requiredsite=marte2.sid.inpe.br+802&requiredmirror=dpi.inpe.br/marte2/2013/05.17.15.03.08&searchsite=bibdigital.sid.inpe.br:80&searchmirror=sid.inpe.br/bibdigital@80/2006/04.07.15.50.13). In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (p. 1020-1027). São José dos Campos: INPE.
+
 Ferreira, R. M. P.; Barbosa, C. C. F.; **Martins, V. S.**; Carvalho, L. A. S.; Jorge, D. S. F.; Silva, M. P. [*Aplicação do sensor MSI/Sentinel-2 na estimativa de componentes oticamente ativos em lagos de planície de inundação amazônica*]( http://marte2.sid.inpe.br/rep/sid.inpe.br/marte2/2017/10.27.13.15.38). In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (p. 3687-3694). São José dos Campos: INPE.
 
 Guedes, H. A. S., Silva, D., Dergam, J., & **Martins, V. S.** (2016). [*Habitat de cinco espécies de peixes nativos do rio Formoso, Minas Gerais. Revista Brasileira de Engenharia e Sustentabilidade*](https://periodicos.ufpel.edu.br/ojs2/index.php/RBES/article/view/8180), 2(1), 33-42.
