@@ -4,13 +4,11 @@ title: "Contact"
 author_profile: true
 ---
 
-
-**Iowa State University (ISU)**
-
   E-mail: vitors@iastate.edu
   <br />
   Tel.: +1 515-294-1434
   <br />  
+**Iowa State University (ISU)**
   [Dep. of Agricultural and Biosystems Engineering](https://www.abe.iastate.edu/) (ABE)
   <br /> 
   1340 Elings Hall office 4321
@@ -21,7 +19,7 @@ author_profile: true
   <br />
 
   
-**Collaboration (INPE)**
+  **Collaboration (INPE)**
 
   [Image Processing Division](http://www.dpi.inpe.br/DPI/) - INPE
   <br />
