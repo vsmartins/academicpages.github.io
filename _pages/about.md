@@ -31,7 +31,7 @@ Water vapor distribution in July 2014 - Amazing!
 
 * **November 06, 2018**: A paper was accepted in the Remote Sensing Applications: Society and Environment - 
 *Remote sensing of large reservoir in the drought years: Implications on surface water change and turbidity variability of Sobradinho reservoir (Northeast Brazil)*.
-    Research highlights:
+<br>Research highlights:
     1) Critical surface water change caused by drought years between 2013 – 2017;
     2) Regional precipitation analysis shows the rainfall deficit over catchment area;
     3) The framework for continuous monitoring of Sobradinho during water shortage.
@@ -47,7 +47,7 @@ This study provides a relevant information for remote sensing community about at
 2) First assessment of CBERS-4 MUX surface reflectance across South America;
 3) Moderate atmospheric products are used as ancillary products in the approach;
 4) MUX surface reflectance (SR) was compared to Landsat-8 SR e AERONET-derived SR.
-<br/>
+<br \>
 
 <p align="center">
 <img src="/images/CBERS.jpg" style="width: 200px;"/>
