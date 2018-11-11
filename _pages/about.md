@@ -32,9 +32,9 @@ Water vapor distribution in July 2014 - Amazing!
 * **November 06, 2018**: A paper was accepted in the Remote Sensing Applications: Society and Environment - 
 *Remote sensing of large reservoir in the drought years: Implications on surface water change and turbidity variability of Sobradinho reservoir (Northeast Brazil)*.
 Research highlights:
-- Critical surface water change caused by drought years between 2013 – 2017;
-- Regional precipitation analysis shows the rainfall deficit over catchment area;
-- The framework for continuous monitoring of Sobradinho during water shortage.
+-- Critical surface water change caused by drought years between 2013 – 2017;
+-- Regional precipitation analysis shows the rainfall deficit over catchment area;
+-- The framework for continuous monitoring of Sobradinho during water shortage.
 
 <p align="center">
 <img src="/images/SOB.jpg" style="width: 200px;"/>
