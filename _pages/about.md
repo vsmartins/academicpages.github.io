@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-<img src="/images/intro2.jpg" style="width: 700px;"/>
+<img src="/images/intro2.jpg" style="width: 800px;"/>
 </p>
 
 # About me
@@ -26,7 +26,7 @@ My hobbies include playing soccer, running, Netflix and eating cheese with Tosti
 
 Water vapor distribution in July 2014 - Amazing!
 <p align="center">
-<img src="/images/cwvjpg.jpg" style="width: 300px;"/>
+<img src="/images/cwvjpg.jpg" style="width: 400px;"/>
 </p>
 
 * **November 06, 2018**: A paper was accepted in the Remote Sensing Applications: Society and Environment - 
@@ -37,7 +37,7 @@ Water vapor distribution in July 2014 - Amazing!
     3) The framework for continuous monitoring of Sobradinho during water shortage.
     <br \>
 <p align="center">
-<img src="/images/SOB.jpg" style="width: 200px;"/>
+<img src="/images/SOB.jpg" style="width: 300px;"/>
 </p>
 
 * **September 26, 2018**: A paper was accepted in the Remote Sensing of Environmental: [*Continental-scale surface reflectance product from CBERS-4 MUX data: Assessment of atmospheric correction method using coincident Landsat observations*](https://doi.org/10.1016/j.rse.2018.09.017). 
@@ -50,7 +50,7 @@ This study provides a relevant information for remote sensing community about at
     <br \>
 
 <p align="center">
-<img src="/images/CBERS.jpg" style="width: 200px;"/>
+<img src="/images/CBERS.jpg" style="width: 300px;"/>
 </p>
 
 
