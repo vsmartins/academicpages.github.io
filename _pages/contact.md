@@ -22,8 +22,8 @@ author_profile: true
   <br />   
 </address>
 <br />
-**Collaboration (INPE)**
 
+**Collaboration (INPE)**
 <address>
   [Image Processing Division](http://www.dpi.inpe.br/DPI/) - INPE
   <br />
