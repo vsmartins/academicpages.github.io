@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Vitor S. Martins"
   avatar           : "profile.jpg"
-  bio              : "PhD student in [*ABE*](https://www.abe.iastate.edu/) MSc Remote Sensing, BSc Agricultural Eng."
+  bio              : "PhD student in [ABE]("https://www.abe.iastate.edu/") MSc Remote Sensing, BSc Agricultural Eng."
   location         : "Iowa State University, Ames, IA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=CLZIhCwAAAAJ&hl=en&oi=sra"
