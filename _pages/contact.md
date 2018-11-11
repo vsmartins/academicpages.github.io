@@ -6,7 +6,7 @@ author_profile: true
 
 
 **Iowa State University (ISU)**
-  <br />
+<address>
   E-mail: vitors@iastate.edu
   <br />
   Tel.: +1 515-294-1434
@@ -17,9 +17,10 @@ author_profile: true
   <br /> 
   605 Bissell Road
   <br />
-  Ames, IA 50011-3270  
+  Ames, IA 50011-3270
   <br />
-
+<address/>
+  
 **Collaboration (INPE)**
   [Image Processing Division](http://www.dpi.inpe.br/DPI/) - INPE
   <br />
