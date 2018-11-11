@@ -3,20 +3,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Discussion"
+#    url: /Discussion/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Codes"
+    url: /codes/
     
   - title: "CV"
-    url: /cv/
+    url: http://vsmartins.github.io/files/martins_cv_nov2018.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Contact"
+    url: /contact/
