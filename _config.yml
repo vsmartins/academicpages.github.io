@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vitor S. Martins / Site Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Vitor S. Martins"
 description              : &description "personal description"
