@@ -6,7 +6,7 @@ author_profile: true
 
 
 **Iowa State University (ISU)**
-<address>
+
   E-mail: vitors@iastate.edu
   <br />
   Tel.: +1 515-294-1434
@@ -19,13 +19,12 @@ author_profile: true
   <br />
   Ames, IA 50011-3270
   <br />
-<address/>
+
   
 **Collaboration (INPE)**
-<address>
+
   [Image Processing Division](http://www.dpi.inpe.br/DPI/) - INPE
   <br />
   [Instrumentation Laboratory for Aquatic Systems (LabISA)](http://www.dpi.inpe.br/labisa/)
   <br />
   PI: Claudio C.F. Barbosa and Evlyn M.L.M. Novo
-<address \>
