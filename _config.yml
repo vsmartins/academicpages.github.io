@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Vitor S. Martins / Site Title"
 title_separator          : "-"
 name                     : &name "Vitor S. Martins"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Vitor S. Martins"
   avatar           : "profile.jpg"
-  bio              : "PhD student in Agricultural and Biosystems Engineering, MSc Remote Sensing, BSc Agricultural and Environmental Eng."
+  bio              : "PhD student in Agricultural and Biosystems Engineering,/ MSc Remote Sensing,/ BSc Agricultural and Environmental Eng."
   location         : "Iowa State University, Ames, IA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=CLZIhCwAAAAJ&hl=en&oi=sra"
