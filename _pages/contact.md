@@ -9,7 +9,7 @@ author_profile: true
   Tel.: +1 515-294-1434
   <br />  
 **Iowa State University (ISU)**
-
+  <br /> 
   [Dep. of Agricultural and Biosystems Engineering](https://www.abe.iastate.edu/) (ABE)
   <br /> 
   1340 Elings Hall office 4321
@@ -21,7 +21,7 @@ author_profile: true
 
   
   **Collaboration (INPE)**
-
+  <br />
   [Image Processing Division](http://www.dpi.inpe.br/DPI/) - INPE
   <br />
   [Instrumentation Laboratory for Aquatic Systems (LabISA)](http://www.dpi.inpe.br/labisa/)
