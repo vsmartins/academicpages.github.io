@@ -5,12 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## [Journal articles](https://scholar.google.com/citations?user=CLZIhCwAAAAJ&hl=en&oi=sra)
 
-{% include base_path %}
+**Martins, V. S.**, Soares, J. V., Novo, E. M., Barbosa, C. C., Pinto, C. T., Arcanjo, J. S., & Kaleita, A. (2018). [*Continental-scale surface reflectance product from CBERS-4 MUX data: Assessment of atmospheric correction method using coincident Landsat observations*](https://www.sciencedirect.com/science/article/abs/pii/S0034425718304280). Remote Sensing of Environment, 218, 55-68.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Martins, V. S.**, Novo, E. M., Lyapustin, A., Aragão, L. E., Freitas, S. R., & Barbosa, C. C. (2018). [*Seasonal and interannual assessment of cloud cover and atmospheric constituents across the Amazon (2000–2015): Insights for remote sensing and climate analysis*](https://www.sciencedirect.com/science/article/abs/pii/S0924271618301461). ISPRS Journal of Photogrammetry and Remote Sensing.
+
+**Martins, V. S.**, Lyapustin, A., de Carvalho, L. A. S., Barbosa, C. C. F., & Novo, E. M. L. M. (2017). [*Validation of high‐resolution MAIAC aerosol product over South America*](https://doi.org/10.1002/2016JD026301). Journal of Geophysical Research: Atmospheres, 122(14), 7537-7559.
+
+**Martins, V. S.**, Barbosa, C. C. F., de Carvalho, L. A. S., Jorge, D. S. F., Lobo, F. D. L., & Novo, E. M. L. D. M. (2017). [*Assessment of atmospheric correction methods for Sentinel-2 MSI images applied to Amazon floodplain lakes*](https://www.mdpi.com/2072-4292/9/4/322/html). Remote Sensing, 9(4), 322.
+
+## Conference proceedings
+
+Ferreira, R. M. P.; Barbosa, C. C. F.; **Martins, V. S.**; Carvalho, L. A. S.; Jorge, D. S. F.; Silva, M. P. [*Aplicação do sensor MSI/Sentinel-2 na estimativa de componentes oticamente ativos em lagos de planície de inundação amazônica*]( http://marte2.sid.inpe.br/rep/sid.inpe.br/marte2/2017/10.27.13.15.38). In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (p. 3687-3694). São José dos Campos: INPE.
+
+Guedes, H. A. S., Silva, D., Dergam, J., & **Martins, V. S.** (2016). [*Habitat de cinco espécies de peixes nativos do rio Formoso, Minas Gerais. Revista Brasileira de Engenharia e Sustentabilidade*](https://periodicos.ufpel.edu.br/ojs2/index.php/RBES/article/view/8180), 2(1), 33-42.
+
+## Thesis
+
+**Martins, V. S.** (2017). [*Seasonal Monitoring of Atmospheric Constituents using Multi-Angle Modis Data as support for Atmospheric Correction in the Amazon Region.*](http://mtc-m21b.sid.inpe.br/col/sid.inpe.br/mtc-m21b/2017/06.10.13.55/doc/publicacao.pdf) Dissertation (Master in Remote Sensing). São José dos Campos: INPE.
