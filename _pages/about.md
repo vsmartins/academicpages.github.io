@@ -12,5 +12,5 @@ Hello! I’m Vitor Martins, a young scientist in remote sensing topic. I obtaine
 
 Example: Water vapor distribution in July 2014 - Amazing!
 
-<img src="/images/cwvjpg.jpg" style="width: 300px;"/>
+<img src="/images/cwvjpg.jpg" style="width: 600px;"/>
 
