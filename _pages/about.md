@@ -22,25 +22,23 @@ My hobbies include playing soccer, running, Netflix and eating cheese with Tosti
 
 # Recent News
 
-* **November 11, 2018**: I'm finishing the global validation of MODIS-MAIAC water vapor against AERONET observations. The results are relevant for MODIS water vapor community.
+* **November 11, 2018**: I'm finishing a global validation of MODIS-MAIAC water vapor against AERONET observations. The results are relevant for MODIS water vapor community. Coming soon.
 
 Water vapor distribution in July 2014 - Amazing!
 <p align="center">
-<img src="/images/cwvjpg.jpg" style="width: 600px;"/>
+<img src="/images/cwvjpg.jpg" style="width: 300px;"/>
 </p>
 
 * **November 06, 2018**: A paper was accepted in the Remote Sensing Applications: Society and Environment - 
 *Remote sensing of large reservoir in the drought years: Implications on surface water change and turbidity variability of Sobradinho reservoir (Northeast Brazil)*.
 <p align="center">
-<img src="/images/SOB.jpg" style="width: 600px;"/>
+<img src="/images/SOB.jpg" style="width: 200px;"/>
 </p>
 
-* **September 26, 2018**: A paper was accepted in the Remote Sensing of Environmental: *Continental-scale surface reflectance product from CBERS-4 MUX data: Assessment of atmospheric correction method using coincident Landsat observations*. This study provides a relevant information for remote sensing community about atmospheric correction for CBERS MUX dataset. Although CBERS is a long-term Earth Observation program (~30 years), there are few publications about this dataset in peer-review journals. We believe that our findings are helpful to inform the recent progress in the atmospheric correction algorithm for multi-spectral MUX sensor.
-
-*Link: https://doi.org/10.1016/j.rse.2018.09.017*
+* **September 26, 2018**: A paper was accepted in the Remote Sensing of Environmental: [*Continental-scale surface reflectance product from CBERS-4 MUX data: Assessment of atmospheric correction method using coincident Landsat observations*](https://doi.org/10.1016/j.rse.2018.09.017). This study provides a relevant information for remote sensing community about atmospheric correction for CBERS MUX dataset. Although CBERS is a long-term Earth Observation program (~30 years), there are few publications about this dataset in peer-review journals. We believe that our findings are helpful to inform the recent progress in the atmospheric correction algorithm for multi-spectral MUX sensor.
 
 <p align="center">
-<img src="/images/CBERS.jpg" style="width: 600px;"/>
+<img src="/images/CBERS.jpg" style="width: 200px;"/>
 </p>
 
 
