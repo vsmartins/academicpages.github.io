@@ -6,6 +6,7 @@ author_profile: true
 
 
 **Iowa State University (ISU)**
+  <br />
   E-mail: vitors@iastate.edu
   <br />
   Tel.: +1 515-294-1434
@@ -20,7 +21,6 @@ author_profile: true
   <br />
 
 **Collaboration (INPE)**
-
   [Image Processing Division](http://www.dpi.inpe.br/DPI/) - INPE
   <br />
   [Instrumentation Laboratory for Aquatic Systems (LabISA)](http://www.dpi.inpe.br/labisa/)
