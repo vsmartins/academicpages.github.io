@@ -22,3 +22,11 @@ author_profile: true
   <br /> 
   E-mail: vitors@iastate.edu
 </address>
+
+**Collaboration (INPE)**
+
+<address>
+  Image Processing Division - INPE
+  Instrumentation Laboratory for Aquatic Systems (LabISA)
+  PI: Claudio C.F. Barbosa and Evlyn M.L.M. Novo
+</address>
