@@ -31,14 +31,24 @@ Water vapor distribution in July 2014 - Amazing!
 
 * **November 06, 2018**: A paper was accepted in the Remote Sensing Applications: Society and Environment - 
 *Remote sensing of large reservoir in the drought years: Implications on surface water change and turbidity variability of Sobradinho reservoir (Northeast Brazil)*.
-<address><br>Research highlights:
+<br>Research highlights:
     1) Critical surface water change caused by drought years between 2013 – 2017;
     2) Regional precipitation analysis shows the rainfall deficit over catchment area;
     3) The framework for continuous monitoring of Sobradinho during water shortage.
-<address \>
+**Research highlights:**
+  <br /> 
+  1) Critical surface water change caused by drought years between 2013 – 2017;
+  <br /> 
+  2) Regional precipitation analysis shows the rainfall deficit over catchment area;
+  <br /> 
+  3) The framework for continuous monitoring of Sobradinho during water shortage.
+  <br />  
+  
+  
 <p align="center">
 <img src="/images/SOB.jpg" style="width: 550px;"/>
 </p>
+  
 
 * **September 26, 2018**: A paper was accepted in the Remote Sensing of Environmental: [*Continental-scale surface reflectance product from CBERS-4 MUX data: Assessment of atmospheric correction method using coincident Landsat observations*](https://doi.org/10.1016/j.rse.2018.09.017). 
 This study provides a relevant information for remote sensing community about atmospheric correction for CBERS MUX dataset. Although CBERS is a long-term Earth Observation program (~30 years), there are few publications about this dataset in peer-review journals. We believe that our findings are helpful to inform the recent progress in the atmospheric correction algorithm for multi-spectral MUX sensor.
