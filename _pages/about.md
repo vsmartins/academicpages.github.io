@@ -14,22 +14,21 @@ redirect_from:
 
 # About me
 
-Hello! I’m Vitor Martins, a young scientist in the satellite-related topics. I obtained a Bachelor of Science degree in Agricultural and Environmental Eng. from the Federal University of Vicosa in 2014 (Brazil), and Master’s degree in Remote sensing at National Institute for Space Research in 2017. I also worked as a GIS specialist in the industry for 6 months. Currently I’m a PhD student in the Department of Agricultural and Biosystems Engineering at Iowa State University (USA). My research interest is focused on satellite applications using multi-spectral data, such as Landsat OLI, Sentinel MSI and Terra MODIS. So far, I had worked on the atmospheric correction approaches and validation of MODIS atmospheric retrievals at regional and global scales. A central aspect of my work includes efficient data handling and a lot of image processing to answer multi-disciplinary questions about landscape and atmospheric dynamic. 
+Hello! I’m Vitor Martins, a young scientist in the satellite-related topics. I obtained a Bachelor of Science degree in Agricultural and Environmental Eng. from the Federal University of Vicosa in 2014 (Brazil), and Master’s degree in Remote sensing at National Institute for Space Research in 2017. I also worked as a GIS analyst in the industry for 6 months. Currently I’m a PhD student in the Department of Agricultural and Biosystems Engineering at Iowa State University (USA). My research interest is focused on satellite applications using multi-spectral data, such as Landsat OLI, Sentinel MSI and Terra MODIS. So far, I had worked on the atmospheric correction approaches and validation of MODIS atmospheric retrievals at regional and global scales. A central aspect of my work includes efficient data handling and a lot of image processing to answer multi-disciplinary questions about landscape and atmospheric dynamic. 
 
-My hobbies include playing soccer, running, Netflix and eating cheese with Tostitos.
-
+During my master, I had a great experience collecting field radiometric data in floodplain lake of Mamiraua reserve ([link])(https://www.mdpi.com/2072-4292/9/4/322) (Thanks to Dr. Claudio). By living in a floating house for a few weeks, I and [*LabIsa*](http://www.dpi.inpe.br/labisa/) colleagues had great moments in this remote area of Amazon. The results of my thesis are partly available in this [*link*](http://www.dpi.inpe.br/atmc/index.php?LANGUAGE=EN). After that, I worked for six months in GIS company (Imagem), where I learned more about python programming and more. Now, I'm doing a PhD in the ABE department of Iowa State University (USA). This department has great faculty team and a fantastic structure for students, and I really appreciate all ([*https://www.abe.iastate.edu/abe-department/about-abe/rankings/*]). By the way, I live in Ames, a fantastic city in the Midwest. My hobbies include playing soccer, running, Netflix and eating cheese with Tostitos.
 
 
 # Recent News
 
-* **November 11, 2018**: I'm finishing a global validation of MODIS-MAIAC water vapor against AERONET observations. The results are relevant for MODIS water vapor community. Coming soon.
+* **November 11, 2018**: Great news, I'm finishing a global validation of MODIS-MAIAC water vapor against AERONET observations. The results are relevant for MODIS water vapor community (I think so!). Coming soon.
 
 Water vapor distribution in July 2014 - Amazing!
 <p align="center">
 <img src="/images/cwvjpg.jpg" style="width: 500px;"/>
 </p>
 
-* **November 06, 2018**: A paper was accepted in the Remote Sensing Applications: Society and Environment - 
+* **November 06, 2018**: Nice! A paper was accepted in the Remote Sensing Applications: Society and Environment - 
 *Remote sensing of large reservoir in the drought years: Implications on surface water change and turbidity variability of Sobradinho reservoir (Northeast Brazil)*.
   <br />
   Research highlights:
@@ -46,7 +45,7 @@ Water vapor distribution in July 2014 - Amazing!
 </p>
   
 
-* **September 26, 2018**: A paper was accepted in the Remote Sensing of Environmental: [*Continental-scale surface reflectance product from CBERS-4 MUX data: Assessment of atmospheric correction method using coincident Landsat observations*](https://doi.org/10.1016/j.rse.2018.09.017). 
+* **September 26, 2018**: Hard work, many challenges! A paper was accepted in the Remote Sensing of Environmental: [*Continental-scale surface reflectance product from CBERS-4 MUX data: Assessment of atmospheric correction method using coincident Landsat observations*](https://doi.org/10.1016/j.rse.2018.09.017). 
 This study provides a relevant information for remote sensing community about atmospheric correction for CBERS MUX dataset. Although CBERS is a long-term Earth Observation program (~30 years), there are few publications about this dataset in peer-review journals. We believe that our findings are helpful to inform the recent progress in the atmospheric correction algorithm for multi-spectral MUX sensor.
 <br />
   Research highlights:
