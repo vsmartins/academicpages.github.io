@@ -28,7 +28,8 @@ Water vapor distribution in July 2014 - Amazing!
 <img src="/images/cwvjpg.jpg" style="width: 500px;"/>
 </p>
 
-![Peter don't care](https://github.com/vsmartins/vsmartins.github.io/blob/master/images/CWVgif.gif)
+
+![Moving](https://github.com/vsmartins/vsmartins.github.io/blob/master/images/CWVgif.gif)
       
 
 
