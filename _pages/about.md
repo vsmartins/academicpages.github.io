@@ -24,16 +24,13 @@ During my master, I had a great experience collecting field radiometric data in 
 * **November 11, 2018**: Great news, I'm finishing a global validation of MODIS-MAIAC water vapor against AERONET observations. The results are relevant for MODIS water vapor community (I think so!). Coming soon.
 
 Water vapor distribution in July 2014 - Amazing!
+
+![Moving](https://github.com/vsmartins/vsmartins.github.io/blob/master/images/CWVgif.gif)
+
 <p align="center">
 <img src="/images/cwvjpg.jpg" style="width: 500px;"/>
 </p>
-
-
-![Moving](https://github.com/vsmartins/vsmartins.github.io/blob/master/images/CWVgif.gif)
-      
-
-
-      
+     
 
 * **November 06, 2018**: Nice! A paper was accepted in the Remote Sensing Applications: Society and Environment - 
 *Remote sensing of large reservoir in the drought years: Implications on surface water change and turbidity variability of Sobradinho reservoir (Northeast Brazil)*.
