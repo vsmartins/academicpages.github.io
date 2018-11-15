@@ -27,8 +27,8 @@ Water vapor distribution in July 2014 - Amazing!
 <p align="center">
 <img src="/images/cwvjpg.jpg" style="width: 500px;"/>
 </p>
-
-![Alt Text](http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif)
+vsmartins/vsmartins.github.io
+![Alt Text](https://github.com/vsmartins/vsmartins.github.io/images/CWVgif.gif)
 ![Alt Text](vsmartins.github.io/images/CWVgif.gif)
 
 [[vsmartins.github.io/images/CWVgif.gif| height = 100px ]]
