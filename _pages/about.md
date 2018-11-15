@@ -26,7 +26,7 @@ During my master, I had a great experience collecting field radiometric data in 
 Animation of water vapor distribution (lat: N60 - S60) obtained from MODIS MCD19A2 product!The water vapor has a key role in the Earth’s climate system, and it is amazing to observe this seasonal distribution around the equator (ITCZ).
 
 <p align="center">
-<img src="/images/CWVgif.gif" style="width: 650px;"/>
+<img src="/images/CWV3.gif" style="width: 650px;"/>
 </p>
 
 * **November 06, 2018**: Nice! A paper was accepted in the Remote Sensing Applications: Society and Environment - 
