@@ -33,8 +33,7 @@ Animation of water vapor distribution (lat: N60 - S60) obtained from MODIS MCD19
 
 * **November 06, 2018**: Nice! A paper was accepted in the Remote Sensing Applications: Society and Environment - 
 *Remote sensing of large reservoir in the drought years: Implications on surface water change and turbidity variability of Sobradinho reservoir (Northeast Brazil)*. Beyond the technical aspects of this paper, I believe that more studies are needed to discuss the water crisis in the Northeast. The climate projections show an extreme vulnerability in this region, and the water resources will be a huge issue for local communities.
-  <br />
-  >Research highlights:
+  > **Research highlights**:
   <br />
   1) Critical surface water change caused by drought years between 2013 – 2017;
   <br /> 
