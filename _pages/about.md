@@ -25,7 +25,7 @@ During my master, I had a great experience collecting field radiometric data in 
 
 Water vapor distribution in July 2014 - Amazing!
 
-![Moving](https://github.com/vsmartins/vsmartins.github.io/blob/master/images/CWVgif.gif)
+[Moving](https://github.com/vsmartins/vsmartins.github.io/blob/master/images/CWVgif.gif)
 
 <p align="center">
 <img src="/images/cwvjpg.jpg" style="width: 500px;"/>
@@ -33,7 +33,7 @@ Water vapor distribution in July 2014 - Amazing!
 
 
 <p align="center">
-<img src="/images/CWVgif.gif" style="width: 650px;"/>
+<img src="/images/CWVgif.gif" style="width: 850px;"/>
 </p>
 
 * **November 06, 2018**: Nice! A paper was accepted in the Remote Sensing Applications: Society and Environment - 
