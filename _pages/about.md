@@ -18,10 +18,12 @@ Hello! I’m Vitor Martins, a young scientist in the satellite-related topics. I
 
 During my master, I had a great experience collecting field radiometric data in floodplain lake of Mamiraua reserve [[**link**]](https://www.mamiraua.org.br/pt-br). This research was conducted by [**LabISA**](http://www.dpi.inpe.br/labisa/) team, under the supervision of Dr. Claudio Barbosa. The results of my thesis were partly available in this [**link**](http://www.dpi.inpe.br/atmc/index.php?LANGUAGE=EN). After that, I worked for six months in the industry (Imagem), with daily activities involving python programming. Now, I'm doing a PhD in the ABE department of Iowa State University (USA). This department has great faculty team and giant structure for students - I appreciate all here [[**ABE**]](https://www.abe.iastate.edu/abe-department/about-abe/rankings/). By the way, I'm living in Ames, a small city in the Midwest, and my hobbies include playing soccer, running, Netflix and eating cheese with Tostitos.
 
+> **My research statement**
+> To understand the fundamental processes underlying the visual perception of objects to derive new computer vision algorithms that, one day, may enable machines to see.
 
 # Recent News
 
-* **November 11, 2018**: Great news, I'm finishing a global validation of MODIS-MAIAC (MCD19A2) water vapor against AERONET observations. The results are relevant for MODIS water vapor community (I think so!). Coming soon.
+>* **November 11, 2018**: Great news, I'm finishing a global validation of MODIS-MAIAC (MCD19A2) water vapor against AERONET >observations. The results are relevant for MODIS water vapor community (I think so!). Coming soon.
 
 Animation of water vapor distribution (lat: N60 - S60) obtained from MODIS MCD19A2 product!The water vapor has a key role in the Earth’s climate system, and it is amazing to observe this seasonal distribution around the equator (ITCZ).
 
