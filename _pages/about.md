@@ -16,17 +16,17 @@ redirect_from:
 
 Hello! I’m Vitor Martins, a young scientist in the satellite-related topics. I obtained a Bachelor of Science degree in Agricultural and Environmental Eng. from the Federal University of Vicosa in 2014 (Brazil), and Master’s degree in Remote sensing at National Institute for Space Research in 2017. I also worked as a GIS analyst in the industry for 6 months. Currently I’m a PhD student in the Department of Agricultural and Biosystems Engineering at Iowa State University (USA). My research interest is focused on satellite applications using multi-spectral data, such as Landsat OLI, Sentinel MSI and Terra MODIS. So far, I had worked on the atmospheric correction approaches and validation of MODIS atmospheric retrievals at regional and global scales. A central aspect of my work includes efficient data handling and a lot of image processing to answer multi-disciplinary questions about landscape and atmospheric dynamic. 
 
-During my master, I had a great experience collecting field radiometric data in floodplain lake of Mamiraua reserve [[**link**]](https://www.mamiraua.org.br/pt-br) (Thanks to Dr. Claudio). By living in a floating house for a few weeks, I and [**LabISA**](http://www.dpi.inpe.br/labisa/) colleagues had great moments in this remote area of Amazon. The results of my thesis are partly available in this [**link**](http://www.dpi.inpe.br/atmc/index.php?LANGUAGE=EN). After that, I worked for six months in GIS company (Imagem), where I learned more about python programming and more. Now, I'm doing a PhD in the ABE department of Iowa State University (USA). This department has great faculty team and structure for students, and I really appreciate all [[**ABE**]](https://www.abe.iastate.edu/abe-department/about-abe/rankings/). By the way, I live in Ames, a fantastic city in the Midwest. My hobbies include playing soccer, running, Netflix and eating cheese with Tostitos.
+During my master, I had a great experience collecting field radiometric data in floodplain lake of Mamiraua reserve [[**link**]](https://www.mamiraua.org.br/pt-br). This research was conducted by [**LabISA**](http://www.dpi.inpe.br/labisa/) team, under the supervision of Dr. Claudio Barbosa. The results of my thesis were partly available in this [**link**](http://www.dpi.inpe.br/atmc/index.php?LANGUAGE=EN). After that, I worked for six months in the industry (Imagem), with daily activities involving python programming. Now, I'm doing a PhD in the ABE department of Iowa State University (USA). This department has great faculty team and giant structure for students - I appreciate all here [[**ABE**]](https://www.abe.iastate.edu/abe-department/about-abe/rankings/). By the way, I'm living in Ames, a small city in the Midwest, and my hobbies include playing soccer, running, Netflix and eating cheese with Tostitos.
 
 
 # Recent News
 
-* **November 11, 2018**: Great news, I'm finishing a global validation of MODIS-MAIAC water vapor against AERONET observations. The results are relevant for MODIS water vapor community (I think so!). Coming soon.
+* **November 11, 2018**: Great news, I'm finishing a global validation of MODIS-MAIAC (MCD19A2) water vapor against AERONET observations. The results are relevant for MODIS water vapor community (I think so!). Coming soon.
 
-Water vapor distribution in July 2014 - Amazing!
+Animation of water vapor distribution (lat: N60 - S60) obtained from MODIS MCD19A2 product!The water vapor acts in the Earth's climate system in different ways, and its amazing to observe this seasonal distribution around the equator (ITCZ).
 
 <p align="center">
-<img src="/images/CWVgif.gif" style="width: 850px;"/>
+<img src="/images/CWVgif.gif" style="width: 1850px;"/>
 </p>
 
 * **November 06, 2018**: Nice! A paper was accepted in the Remote Sensing Applications: Society and Environment - 
