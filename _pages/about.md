@@ -28,9 +28,10 @@ Water vapor distribution in July 2014 - Amazing!
 <img src="/images/cwvjpg.jpg" style="width: 500px;"/>
 </p>
 
-<p align="center">
-<gif src="/images/CWVgif.gif" style="width: 500px;"/>
-</p>
+
+![Alt Text]("/images/CWVgif.gif")
+
+[[/images/CWVgif.gif | height = 100px ]]
 
 
 * **November 06, 2018**: Nice! A paper was accepted in the Remote Sensing Applications: Society and Environment - 
