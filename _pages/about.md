@@ -29,10 +29,11 @@ Water vapor distribution in July 2014 - Amazing!
 </p>
 
 
-![Alt Text]("/images/CWVgif.gif")
+![Alt Text](vsmartins.github.io/images/CWVgif.gif)
 
-[[/images/CWVgif.gif | height = 100px ]]
+[[vsmartins.github.io/images/CWVgif.gif| height = 100px ]]
 
+      
 
 * **November 06, 2018**: Nice! A paper was accepted in the Remote Sensing Applications: Society and Environment - 
 *Remote sensing of large reservoir in the drought years: Implications on surface water change and turbidity variability of Sobradinho reservoir (Northeast Brazil)*.
