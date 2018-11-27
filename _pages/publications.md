@@ -7,7 +7,8 @@ author_profile: true
 
 ## [Journal articles](https://scholar.google.com/citations?user=CLZIhCwAAAAJ&hl=en&oi=sra)
 
-**Martins, V. S.**, Kaleita, A., Barbosa, C. C., Fassoni-Andrade, A. C., Lobo, F. L., & Novo, E. M.. (2018). [*Remote sensing of large reservoir in the drought years: Implications on surface water change and turbidity variability of Sobradinho reservoir (Northeast Brazil)*](https://www.sciencedirect.com/science/article/pii/S2352938518302647). Remote Sensing Applications: Society and Environment, in press.
+**Martins, V. S.**, Kaleita, A., Barbosa, C. C., Fassoni-Andrade, A. C., Lobo, F. L., & Novo, E. M.. (2019). [*Remote sensing of large reservoir in the drought years: Implications on surface water change and turbidity variability of Sobradinho reservoir (Northeast Brazil)*](https://www.sciencedirect.com/science/article/pii/S2352938518302647). Remote Sensing Applications: Society and Environment, 13, 275-288.
+
 
 **Martins, V. S.**, Soares, J. V., Novo, E. M., Barbosa, C. C., Pinto, C. T., Arcanjo, J. S., & Kaleita, A. (2018). [*Continental-scale surface reflectance product from CBERS-4 MUX data: Assessment of atmospheric correction method using coincident Landsat observations*](https://www.sciencedirect.com/science/article/abs/pii/S0034425718304280). Remote Sensing of Environment, 218, 55-68.
 
