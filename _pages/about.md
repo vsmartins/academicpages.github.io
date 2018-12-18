@@ -65,7 +65,7 @@ This study provides a relevant information for remote sensing community about at
 
 
 * **May 18, 2018**: Do you want to know more about atmospheric constituents in Amazon? This paper should help you - I hope. A paper was accepted in the ISPRS Journal: [*Seasonal and interannual assessment of cloud cover and atmospheric constituents across the Amazon (2000–2015): Insights for remote sensing and climate analysis*](https://doi.org/10.1016/j.isprsjprs.2018.05.013). 
-This study provides a seasonal distribution and variability of four atmospheric constituents in the Amazon basin. Since the climate forces are driving the atmospheric dynamic (and land), we observed strong variability in extreme El Nino and La Nina. This is a real chance to see the variability of both aerosol, clouds, water vapor and ozone across the region. Take a look.
+This study provides a seasonal distribution of four atmospheric constituents in the Amazon basin. Since the climate forces are driving the atmospheric dynamic (and land), we observed strong variability in extreme El Nino and La Nina events. This is a real chance to see a combined variability of aerosol, clouds, water vapor and ozone across the region. We also made a connection between atmospheric constituents and their effects in satellite data. Take a look!
   <br />
   > **Research highlights**:
     <br />
