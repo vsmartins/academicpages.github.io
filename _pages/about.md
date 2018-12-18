@@ -75,7 +75,6 @@ This study provides a seasonal distribution of four atmospheric constituents in 
     <br />
     3) July is a relatively cloud-free period under low aerosol loadings (good for RS applications!);   
   <br />
-
 <p align="center">
 <img src="/images/AMZ.jpg" style="width: 550px;"/>
 </p>
