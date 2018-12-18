@@ -73,8 +73,7 @@ This study provides a seasonal distribution of four atmospheric constituents in 
     <br />
     2) The high variability of atmospheric constituents was observed in southern sub-basin rather than northern sub-basins (I expected);
     <br />
-    3) July is a relatively cloud-free period under low aerosol loadings (good for RS applications!);
-   
+    3) July is a relatively cloud-free period under low aerosol loadings (good for RS applications!);   
   <br />
 
 <p align="center">
