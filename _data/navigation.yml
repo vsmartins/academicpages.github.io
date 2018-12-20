@@ -12,11 +12,11 @@ main:
 #  - title: "Discussion"
 #    url: /Discussion/
         
-  - title: "Codes"
-    url: /codes/
+#  - title: "Codes"
+#    url: /codes/
     
-  - title: "CV"
-    url: http://vsmartins.github.io/files/martins_cv_nov2018.pdf
+#  - title: "CV"
+#    url: http://vsmartins.github.io/files/martins_cv_nov2018.pdf
     
   - title: "Contact"
     url: /contact/
