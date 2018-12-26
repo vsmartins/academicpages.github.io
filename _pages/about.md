@@ -20,7 +20,7 @@ During my master, I had a great experience collecting field radiometric data in 
 
 # Recent News
 
-* **November 25, 2018**: Global validation of MODIS-MAIAC (MCD19A2) water vapor against AERONET observations is coming soon. The results are relevant for MODIS water vapor community (I think so!).
+* **November 25, 2018**: Coming soon! Global validation of MODIS-MCD19A2 water vapor against AERONET observations. The results are relevant for MODIS water vapor community (I think so!).
 
 Water vapor distribution from MODIS MCD19A2 product (lat: N60 - S60). The water vapor has a key role in the Earth’s climate system, and it is amazing to observe this seasonal change around the equator (ITCZ).
 
