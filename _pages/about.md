@@ -24,7 +24,7 @@ During my master, I had a great experience collecting field radiometric data in 
 
 
 <p align="center">
-<img src="/images/capa1.jpg" width="450" height="650";"/>
+<img src="/images/capa1.jpg" width="450" height="650">
 </p>
 
 
