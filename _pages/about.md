@@ -20,7 +20,7 @@ During my master, I had a great experience collecting field radiometric data in 
 
 # Recent News
 
-* **March 19, 2019**: Almost done! The LabISA group is publishing a new book abook about Remote Sensing of Inland Water at [*XIX Brazilian Symposium on Remote Sensing*](http://sbsr.com.br/br/node/1379). The book is called "Introdução ao sensoriamento remoto de sistemas aquáticos: princípios e aplicações". This ebook will be publicly available (free) in following link: [http://www.dpi.inpe.br/labisa/livro/](http://www.dpi.inpe.br/labisa/livro/). If you speak Portuguese, just take a look and enjoy.
+* **March 19, 2019**: Almost done! The LabISA group is publishing a new book about Remote Sensing of Inland Water at [*XIX Brazilian Symposium on Remote Sensing*](http://sbsr.com.br/br/node/1379). The book is named "Introdução ao sensoriamento remoto de sistemas aquáticos: princípios e aplicações", and will be publicly available (free) in following link: [http://www.dpi.inpe.br/labisa/livro/](http://www.dpi.inpe.br/labisa/livro/). If you speak Portuguese, just take a look and enjoy.
 
 <p align="center">
 <img src="/images/capa1.jpg" width="450" height="650">
