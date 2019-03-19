@@ -20,6 +20,13 @@ During my master, I had a great experience collecting field radiometric data in 
 
 # Recent News
 
+* **March 19, 2019**: Almost done! Our book about remote sensing of inland water will be released during [*XIX Brazilian Symposium on Remote Sensing*](http://sbsr.com.br/br/node/1379) 2019. This ebook will be publicly available (free) in following link: [http://www.dpi.inpe.br/labisa/livro/](http://www.dpi.inpe.br/labisa/livro/). If you speak Portuguese, just take a look and enjoy.
+
+<p align="center">
+<img src="/images/capa.png" style="width: 550px;"/>
+</p>
+
+
 * **November 25, 2018**: Coming soon! Global validation of MODIS-MCD19A2 water vapor against AERONET observations. The results are relevant for MODIS water vapor community (I think so!).
 
 Water vapor distribution from MODIS MCD19A2 product (lat: N60 - S60). The water vapor has a key role in the Earth’s climate system, and it is amazing to observe this seasonal change around the equator (ITCZ).
