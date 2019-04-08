@@ -12,7 +12,7 @@ redirect_from:
 </p>
 
 <p align="center">
-<img src="/images/welcome.jpg" style="width: 800px;"/>
+<img src="/images/Welcome.jpg" style="width: 800px;"/>
 </p>
 
 # About me
