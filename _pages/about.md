@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-<img src="/images/welcome1.jpg" width="1250" height="300">
+<img src="/images/Welcome.jpg" width="1250" height="200">
 </p>
 
 # About me
