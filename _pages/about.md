@@ -20,6 +20,8 @@ During my master, I had a great experience collecting field radiometric data in 
 
 # Recent News
 
+* **April 3, 2019**: I was selected by the department to receive the [2019 Reverent P.T. Taiganides Award for Outstanding Ph.D. Student] in ABE. This recognition gave me further energy to keep doing my work, I’m really grateful for this award. My special thanks to my advisor, Dr. Amy Kaleita, who always supports me. :)
+
 * **March 19, 2019**: Almost done! The LabISA/INPE group is publishing a new book about Remote Sensing of Inland Water at [*XIX Brazilian Symposium on Remote Sensing*](http://sbsr.com.br/br/node/1379). The book "Introdução ao sensoriamento remoto de sistemas aquáticos: princípios e aplicações" will be publicly available (free) in following link: [http://www.dpi.inpe.br/labisa/livro/](http://www.dpi.inpe.br/labisa/livro/). If you speak Portuguese, just take a look and enjoy.
 
 <p align="center">
