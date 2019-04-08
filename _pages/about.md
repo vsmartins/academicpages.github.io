@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-//<p align="center">
-//<img src="/images/intro2.jpg" style="width: 800px;"/>
-//</p>
+<p align="center">
+<img src="/images/intro2.jpg" style="width: 800px;"/>
+</p>
 
 # About me
 
@@ -69,7 +69,7 @@ This study provides a relevant information for remote sensing community about at
   <br />
 
 <p align="center">
-<img src="/images/CBERS.jpg" style="width: 550px;"/>
+<! <img src="/images/CBERS.jpg" style="width: 550px;"/>
 </p>
 
 
