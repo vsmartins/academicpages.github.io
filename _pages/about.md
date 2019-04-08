@@ -11,6 +11,7 @@ redirect_from:
 <p align="center">
 <img src="/images/intro2.jpg" style="width: 800px;"/>
 </p>
+<!--
 
 # About me
 
