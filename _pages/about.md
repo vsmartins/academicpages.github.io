@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-<img src="/images/intro2.jpg" style="width: 800px;"/>
-</p>
+//<p align="center">
+//<img src="/images/intro2.jpg" style="width: 800px;"/>
+//</p>
 
 # About me
 
