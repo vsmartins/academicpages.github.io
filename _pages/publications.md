@@ -18,6 +18,10 @@ author_profile: true
 
 **Martins, V. S.**, Barbosa, C. C. F., de Carvalho, L. A. S., Jorge, D. S. F., Lobo, F. D. L., & Novo, E. M. L. D. M. (2017). [*Assessment of atmospheric correction methods for Sentinel-2 MSI images applied to Amazon floodplain lakes*](https://www.mdpi.com/2072-4292/9/4/322/html). Remote Sensing, 9(4), 322.
 
+## Books
+Barbosa, C.C.F.; Novo, E.M.L.M.; **Martins, V.S.**. Introdução ao Sensoriamento Remoto de Sistemas Aquáticos: princípios e aplicações. 1ª edição. Instituto Nacional de Pesquisas Espaciais. São José dos Campos. 161p. 2019.
+
+
 ## Conference proceedings
 
 **Martins, V.S.**; de Carvalho, L.A.S.; Barbosa, C.C.F.; Novo, E.M.L.M.. [*Avalição da acurácia em produtos OLI/Landsat 8 em lagos amazônicos: Correção Atmosférica*](http://marte2.sid.inpe.br/rep/sid.inpe.br/marte2/2017/10.23.19.26.37?metadatarepository=sid.inpe.br/marte2/2017/10.23.19.26.38&ibiurl.backgroundlanguage=pt-BR&ibiurl.requiredsite=marte2.sid.inpe.br+802&requiredmirror=dpi.inpe.br/marte2/2013/05.17.15.03.08&searchsite=bibdigital.sid.inpe.br:80&searchmirror=sid.inpe.br/bibdigital@80/2006/04.07.15.50.13). In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (p. 926-933). São José dos Campos: INPE.
