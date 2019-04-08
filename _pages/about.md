@@ -10,7 +10,6 @@ redirect_from:
 <p align="center">
 <img src="/images/intro2.jpg" style="width: 800px;"/>
 </p>
-
 <p align="center">
 <img src="/images/Welcome.jpg" style="width: 800px;"/>
 </p>
