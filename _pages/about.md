@@ -11,7 +11,7 @@ redirect_from:
 <img src="/images/intro2.jpg" style="width: 800px;"/>
 </p>
 <p align="center">
-<img src="/images/welcome1.jpg" width="1450" height="250">
+<img src="/images/welcome1.jpg" width="1250" height="300">
 </p>
 
 # About me
