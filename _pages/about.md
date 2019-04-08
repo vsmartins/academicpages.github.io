@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!--
 <p align="center">
 <img src="/images/intro2.jpg" style="width: 800px;"/>
 </p>
