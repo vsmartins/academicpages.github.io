@@ -12,29 +12,6 @@ redirect_from:
 <img src="/images/Welcome.jpg" width="1150" height="220">
 </p>
 
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1>My First Google Map</h1>
-
-<div id="googleMap" style="width:100%;height:400px;"></div>
-
-<script>
-function myMap() {
-var mapProp= {
-  center:new google.maps.LatLng(51.508742,-0.120850),
-  zoom:5,
-};
-var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
-}
-</script>
-
-<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap"></script>
-
-</body>
-</html>
-
 # About me
 
 Hello! I’m Vitor Martins, a young scientist in satellite remote sensing. I obtained a BS degree in Agricultural and Environmental Eng. from the Federal University of Vicosa in 2014 (Brazil), and Master’s degree in Remote sensing at National Institute for Space Research in 2017. I also worked as a GIS analyst in the industry for 6 months. Currently, I’m a PhD student in the Department of Agricultural and Biosystems Engineering at Iowa State University (ISU). My research interest is focused on satellite applications using multi-spectral data, such as Landsat OLI, Sentinel MSI and Terra MODIS. So far, I had worked on the atmospheric correction approaches and validation of MODIS atmospheric retrievals at regional and global scales. A central aspect of my work includes efficient data handling and image processing for land-atmosphere studies.
