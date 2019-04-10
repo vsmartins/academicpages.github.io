@@ -16,8 +16,6 @@ redirect_from:
    integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
    crossorigin=""></script>
 <div id="mapid"></div>
-#mapid { height: 180px; }
-var mymap = L.map('mapid').setView([51.505, -0.09], 13);
 
 
 <p align="center">
