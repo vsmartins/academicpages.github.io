@@ -1,3 +1,13 @@
+---
+permalink: /
+title:
+excerpt: "Mapping"
+author_profile: true
+redirect_from: 
+  - /Map/
+  - /Map.html
+---
+
 <!DOCTYPE html>
 
 <html>
