@@ -12,80 +12,23 @@ redirect_from:
 <img src="/images/Welcome.jpg" width="1150" height="220">
 </p>
 
-<div id="googlemaps"></div>
-<div id="contactform">
-  <!-- You can even embed a Google Form here -->
-</div>
-
 <!DOCTYPE html>
 <html>
   <head>
-    <style>
-       /* Set the size of the div element that contains the map */
-      #map {
-        height: 400px;  /* The height is 400 pixels */
-        width: 100%;  /* The width is the width of the web page */
-       }
-    </style>
+    <link href="/test/application.css" media="screen" rel="stylesheet" type="text/css" />
+    <script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?sensor=false&key=YOUR_API_KEY">
+    </script>
+    <script src="/test/application.js" type="text/javascript"></script>
   </head>
   <body>
-    <h3>My Google Maps Demo</h3>
-    <!--The div element for the map -->
-    <div id="map"></div>
-    <script>
-// Initialize and add the map
-function initMap() {
-  // The location of Uluru
-  var uluru = {lat: -25.344, lng: 131.036};
-  // The map, centered at Uluru
-  var map = new google.maps.Map(
-      document.getElementById('map'), {zoom: 4, center: uluru});
-  // The marker, positioned at Uluru
-  var marker = new google.maps.Marker({position: uluru, map: map});
-}
-    </script>
-    <!--Load the API from the specified URL
-    * The async attribute allows the browser to render the page while the API loads
-    * The key parameter will contain your own API key (which is not needed for this tutorial)
-    * The callback parameter executes the initMap() function
-    -->
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
-    </script>
+    <div id='container'>
+      <h1>OMG, this is ON TOP OF THE MAP!</h1>
+    </div>
+
+    <div id='map-canvas'></div>
   </body>
 </html>
-
- <!DOCTYPE html>
-<html>
-<head>
-<link href="/test/application.css" media="screen" rel="stylesheet" type="text/css" />
-<script type="text/javascript"
-src="https://maps.googleapis.com/maps/api/js?sensor=false&key=AIzaSyBNLDwRv4ItlTJRouExNPpJokdKK859yDk">
-</script>
-<script src="/test/application.js" type="text/javascript"></script>
-</head>
-<body>
-<div id='container'>
-<h1>OMG, this is ON TOP OF THE MAP!</h1>
-</div>
-
-<div id='map-canvas'></div>
-</body>
-</html>
-
-<div class="map">
-<div class="text">
-  <p>Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-</div>
-<iframe
-  width="425"
-  height="350"
-  frameborder="0"
-  scrolling="no"
-  marginheight="0"
-  marginwidth="0"
-  src="https://maps.google.co.za/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Cape+Town+City+Centre,+Cape+Town,+Western+Cape&amp;aq=1&amp;oq=cape+town&amp;sll=-33.988765,18.532476&amp;sspn=0.003127,0.005681&amp;t=w&amp;g=Cape+Town+City+Centre,+Cape+Town,+Western+Cape&amp;ie=UTF8&amp;hq=&amp;hnear=Cape+Town+City+Centre,+Cape+Town,+Western+Cape&amp;ll=-33.915538,18.656059&amp;spn=0.004425,0.005681&amp;z=14&amp;output=embed"></iframe>
-</div>
 
 # About me
 
