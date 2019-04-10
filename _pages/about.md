@@ -20,6 +20,17 @@ redirect_from:
 <link rel="stylesheet" href="/files/package/dist/leaflet.css" />
 <script src="/files/package/dist/leaflet.js"></script>
 
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+   integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+   crossorigin=""/>
+<!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+   integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+   crossorigin=""></script>
+<div id="mapid"></div>
+#mapid { height: 180px; }
+var mymap = L.map('mapid').setView([51.505, -0.09], 13);
+
 
 <p align="center">
 <img src="/images/Welcome.jpg" width="1150" height="220">
