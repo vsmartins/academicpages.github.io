@@ -17,6 +17,8 @@ redirect_from:
   integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
   crossorigin=""></script>
   
+<link rel="stylesheet" href="/files/package/dist/leaflet.css" />
+<script src="/files/package/dist/leaflet.js"></script>
 
 
 <p align="center">
