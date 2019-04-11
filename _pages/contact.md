@@ -3,45 +3,20 @@ permalink: /contact/
 title: "Contact"
 author_profile: true
 ---
-
-<!DOCTYPE html>
-
 <html>
-
 <head>
-
-<title>Leaflet Web Map</title>
-<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
-<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
-<style>
-
-#map {
-width: 960px;
-height: 500px;
-}
-
-</style>
-
+<title>Divs</title>
 </head>
-
+ 
 <body>
-
-<div id="map"></div>
-
-<script>
-    
-    var map = L.map('map',{
-    center: [43.64701, -79.39425],
-    zoom: 15
-    });
-
-    L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-    }).addTo(map);
-</script>
-
+<div style="background-color:#00BFFF;text-align:center">
+<p>Primeira Div</p>
+</div>
+<div style="border:3px dotted #9F0">
+<p>Segunda Div</p>
+</div>
+ 
 </body>
-
 </html>
 
   E-mail: vitors@iastate.edu
