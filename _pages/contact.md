@@ -28,8 +28,4 @@ author_profile: true
   <br />
   PI: Claudio C.F. Barbosa and Evlyn M.L.M. Novo
 
-<br />
---------------------------------
-<br />
-<p align="center">
-<div style="display:inline-block;width:600px;"><script type="text/javascript" src="//ra.revolvermaps.com/0/0/7.js?i=0bv9sltb48r&amp;m=0c&amp;c=0006ff&amp;cr1=ffffff&amp;br=5&amp;sx=0&amp;cw=ffffff&amp;cb=000000" async="async"></script></div>
+
