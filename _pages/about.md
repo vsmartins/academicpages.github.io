@@ -12,6 +12,7 @@ redirect_from:
 <img src="/images/Welcome.jpg" width="1150" height="220">
 </p>
 
+<script type="text/javascript" src="//ra.revolvermaps.com/0/0/6.js?i=09mscqhtjne&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 
 # About me
 
@@ -89,7 +90,3 @@ This study provides a seasonal distribution of four atmospheric constituents in 
 <img src="/images/AMZ.jpg" style="width: 550px;"/>
 </p>
 
-
-<script>
-type="text/javascript" src="//ra.revolvermaps.com/0/0/8.js?i=0gxqwfo6v44&amp;m=0c&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;cw=ffffff&amp;cb=000000" async="async">
-</script>
