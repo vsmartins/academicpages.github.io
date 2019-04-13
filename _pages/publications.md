@@ -7,11 +7,11 @@ author_profile: true
 
 ## [Journal articles](https://scholar.google.com/citations?user=CLZIhCwAAAAJ&hl=en&oi=sra)
 
--**Martins, V. S.**, Lyapustin, A., Wang, Y., Giles, D. M., Smirnov, A., Slutsker, I., & Korkin, S. (2019). [*Global validation of columnar water vapor derived from EOS MODIS-MAIAC algorithm against the ground-based AERONET observations*](https://www.sciencedirect.com/science/article/pii/S0169809518315515). Atmospheric Research.
+1. **Martins, V. S.**, Lyapustin, A., Wang, Y., Giles, D. M., Smirnov, A., Slutsker, I., & Korkin, S. (2019). [*Global validation of columnar water vapor derived from EOS MODIS-MAIAC algorithm against the ground-based AERONET observations*](https://www.sciencedirect.com/science/article/pii/S0169809518315515). Atmospheric Research.
 
--**Martins, V. S.**, Kaleita, A., Barbosa, C. C., Fassoni-Andrade, A. C., Lobo, F. L., & Novo, E. M.. (2019). [*Remote sensing of large reservoir in the drought years: Implications on surface water change and turbidity variability of Sobradinho reservoir (Northeast Brazil)*](https://www.sciencedirect.com/science/article/pii/S2352938518302647). Remote Sensing Applications: Society and Environment, 13, 275-288.
+2. **Martins, V. S.**, Kaleita, A., Barbosa, C. C., Fassoni-Andrade, A. C., Lobo, F. L., & Novo, E. M.. (2019). [*Remote sensing of large reservoir in the drought years: Implications on surface water change and turbidity variability of Sobradinho reservoir (Northeast Brazil)*](https://www.sciencedirect.com/science/article/pii/S2352938518302647). Remote Sensing Applications: Society and Environment, 13, 275-288.
 
--**Martins, V. S.**, Soares, J. V., Novo, E. M., Barbosa, C. C., Pinto, C. T., Arcanjo, J. S., & Kaleita, A. (2018). [*Continental-scale surface reflectance product from CBERS-4 MUX data: Assessment of atmospheric correction method using coincident Landsat observations*](https://www.sciencedirect.com/science/article/abs/pii/S0034425718304280). Remote Sensing of Environment, 218, 55-68.
+3. **Martins, V. S.**, Soares, J. V., Novo, E. M., Barbosa, C. C., Pinto, C. T., Arcanjo, J. S., & Kaleita, A. (2018). [*Continental-scale surface reflectance product from CBERS-4 MUX data: Assessment of atmospheric correction method using coincident Landsat observations*](https://www.sciencedirect.com/science/article/abs/pii/S0034425718304280). Remote Sensing of Environment, 218, 55-68.
 
 **Martins, V. S.**, Novo, E. M., Lyapustin, A., Aragão, L. E., Freitas, S. R., & Barbosa, C. C. (2018). [*Seasonal and interannual assessment of cloud cover and atmospheric constituents across the Amazon (2000–2015): Insights for remote sensing and climate analysis*](https://www.sciencedirect.com/science/article/abs/pii/S0924271618301461). ISPRS Journal of Photogrammetry and Remote Sensing.
 
