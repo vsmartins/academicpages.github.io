@@ -9,6 +9,7 @@ author_profile: true
 
 **Martins, V. S.**, Lyapustin, A., Wang, Y., Giles, D. M., Smirnov, A., Slutsker, I., & Korkin, S. (2019). [*Global validation of columnar water vapor derived from EOS MODIS-MAIAC algorithm against the ground-based AERONET observations*](https://www.sciencedirect.com/science/article/pii/S0169809518315515){:target= "_blank"}. Atmospheric Research.
  <a href="https://www.sciencedirect.com/science/article/pii/S0169809518315515" target="blank"> Link </a>
+<a href="http://foo.bar/" onclick="window.open("https://www.sciencedirect.com/science/article/pii/S0169809518315515")">Foo</a>
 
 **Martins, V. S.**, Kaleita, A., Barbosa, C. C., Fassoni-Andrade, A. C., Lobo, F. L., & Novo, E. M.. (2019). [*Remote sensing of large reservoir in the drought years: Implications on surface water change and turbidity variability of Sobradinho reservoir (Northeast Brazil)*](https://www.sciencedirect.com/science/article/pii/S2352938518302647). Remote Sensing Applications: Society and Environment, 13, 275-288.
 
