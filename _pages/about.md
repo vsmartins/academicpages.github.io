@@ -25,6 +25,7 @@ During my master, I had a great experience collecting field radiometric data in 
 
 <p align="center">
 <img src="/images/figura_timeline.jpg" width="450" height="500">
+</p>
 
 * **April 3, 2019**: I was selected by the department to receive the *2019 Reverent P.T. Taiganides Award* for Outstanding Ph.D. Student in ABE. I’m really grateful for this recognition. My special thanks to my advisor, Dr. Amy Kaleita, who always supports me. :)
 
