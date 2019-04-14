@@ -21,10 +21,10 @@ During my master, I had a great experience collecting field radiometric data in 
 
 # Recent News
 
-* **April 14, 2019**: I did this figure for my chapter in the book (["Introdução ao sensoriamento remoto de sistemas aquáticos: princípios e aplicações"](http://www.dpi.inpe.br/labisa/livro/res/conteudo.pdf)). Take a look, easy way to find satellite options for your study.
+* **April 14, 2019**: This is a great summary of satellite programs (1970 - 2018), take a look! I did this figure for my chapter in the book (["Introdução ao sensoriamento remoto de sistemas aquáticos: princípios e aplicações"](http://www.dpi.inpe.br/labisa/livro/res/conteudo.pdf)). I hope you find this useful for your projects.
 
 <p align="center">
-<img src="/images/Fig8.tif" width="450" height="650">
+<img src="/images/figura_timeline.jpg" width="450" height="650">
 </p>
 
 * **April 3, 2019**: I was selected by the department to receive the *2019 Reverent P.T. Taiganides Award* for Outstanding Ph.D. Student in ABE. I’m really grateful for this recognition. My special thanks to my advisor, Dr. Amy Kaleita, who always supports me. :)
