@@ -21,7 +21,7 @@ During my master's degree, I had a great experience collecting field radiometric
 
 # Recent News
 
-* **April 14, 2019**: This is a great summary of satellite programs (1970 - 2018). Take a look! I made this figure for a chapter book (["Introdução ao sensoriamento remoto de sistemas aquáticos: princípios e aplicações"](http://www.dpi.inpe.br/labisa/livro/res/conteudo.pdf)). I hope you find this useful for your projects.
+* **April 14, 2019**: This is a great summary of satellite programs (1970 - 2018). Check it out! I made this figure for a chapter book (["Introdução ao sensoriamento remoto de sistemas aquáticos: princípios e aplicações"](http://www.dpi.inpe.br/labisa/livro/res/conteudo.pdf)). I hope you find this useful for your projects.
 
 <p align="center">
 <img src="/images/figura_timeline.jpg" width="600" height="650">
