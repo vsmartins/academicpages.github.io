@@ -21,15 +21,15 @@ During my master's degree, I had a great experience collecting field radiometric
 
 # Recent News
 
-* **April 14, 2019**: This is a great summary of satellite programs (1970 - 2018), take a look! I made this figure for my chapter in the book (["Introdução ao sensoriamento remoto de sistemas aquáticos: princípios e aplicações"](http://www.dpi.inpe.br/labisa/livro/res/conteudo.pdf)). I hope you find this useful for your projects.
+* **April 14, 2019**: This is a great summary of satellite programs (1970 - 2018). Take a look! I made this figure for a chapter book (["Introdução ao sensoriamento remoto de sistemas aquáticos: princípios e aplicações"](http://www.dpi.inpe.br/labisa/livro/res/conteudo.pdf)). I hope you find this useful for your projects.
 
 <p align="center">
 <img src="/images/figura_timeline.jpg" width="600" height="650">
 </p>
 
-* **April 3, 2019**: I was selected by the department to receive the *2019 Reverent P.T. Taiganides Award* for Outstanding Ph.D. Student in ABE. I’m really grateful for this recognition. My special thanks to my advisor, Dr. Amy Kaleita, who always supports me. :)
+* **April 3, 2019**: I was selected by the department to receive the *2019 Reverend P.T. Taiganides Award* for Outstanding Ph.D. Student in the ABE. I’m really grateful for this recognition. My special thanks to my advisor, Dr. Amy Kaleita, who always supports me. :)
 
-* **March 19, 2019**: Almost done! LabISA's group is publishing a new book about Remote Sensing of Inland Water at [*XIX Brazilian Symposium on Remote Sensing*](http://sbsr.com.br/br/node/1379). The book ["Introdução ao sensoriamento remoto de sistemas aquáticos: princípios e aplicações"](http://www.dpi.inpe.br/labisa/livro/res/conteudo.pdf) will be publicly available (free) in following link: [http://www.dpi.inpe.br/labisa/livro/](http://www.dpi.inpe.br/labisa/livro/). If you speak Portuguese, just take a look and enjoy.
+* **March 19, 2019**: Almost done! LabISA's group is publishing a new book about Remote Sensing of Inland Water at [*XIX Brazilian Symposium on Remote Sensing*](http://sbsr.com.br/br/node/1379). The book ["Introdução ao sensoriamento remoto de sistemas aquáticos: princípios e aplicações"](http://www.dpi.inpe.br/labisa/livro/res/conteudo.pdf) will be publicly available (yes, for free!) in following link: [http://www.dpi.inpe.br/labisa/livro/](http://www.dpi.inpe.br/labisa/livro/). If you speak Portuguese, just take a look and enjoy it.
 
 <p align="center">
 <img src="/images/capa1.jpg" width="450" height="650">
