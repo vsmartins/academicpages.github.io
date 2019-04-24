@@ -21,6 +21,24 @@ During my master's degree, I had a great experience collecting field radiometric
 
 # Recent News
 
+* **April 24, 2019**: A paper was accepted in the Atmospheric Research - 
+[*Global validation of columnar water vapor derived from EOS MODIS-MAIAC algorithm against the ground-based AERONET observations*](https://doi.org/10.1016/j.atmosres.2019.04.005). If you have any question about the paper or you need help to process the MCD19A2 files, send me a message.
+  <br />
+  > **Research highlights**:
+  <br />
+  1) First global validation of CWV retrievals from MCD19A2 Collection 6 product;
+  <br /> 
+  2) MCD19A2 provides a reliable CWV Terra and Aqua product over land;
+  <br /> 
+  3) Binned error analysis revealed an underestimation of Aqua CWV retrievals.
+  <br />  
+
+<p align="center">
+<img src="/images/vapor.jpeg">
+</p>
+
+
+
 * **April 14, 2019**: This is a great summary of satellite programs (1970 - 2018). Check it out! I made this figure for a chapter book (["Introdução ao sensoriamento remoto de sistemas aquáticos: princípios e aplicações"](http://www.dpi.inpe.br/labisa/livro/res/conteudo.pdf)). I hope you find this useful for your projects.
 
 <p align="center">
