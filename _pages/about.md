@@ -34,7 +34,7 @@ During my master's degree, I had a great experience collecting field radiometric
   <br />  
 
 <p align="center">
-<img src="/images/vapor.jpeg">
+<img src="/images/vapor.jpeg" width="450" height="650">
 </p>
 
 
