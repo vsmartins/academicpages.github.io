@@ -25,6 +25,8 @@ Barbosa, C.C.F.; Novo, E.M.L.M.; **Martins, V.S.**. [*Introdução ao Sensoriame
 
 ## Conference proceedings
 
+Fassoni-Andrade, A. C.; Passaia, O. A.; **Martins, V.S.**; Paiva, R.C. D.. [*Estimativa da batimetria do reservatório de Sobradinho por imagens orbitais*](/_publications/SBSR2019_1.pdf). In Procedings of the XIX Brazilian Symposium on Remote Sensing - SBSR, Santos. São José dos Campos: INPE. Vol 17, 2019 - 96325.
+
 **Martins, V.S.**; de Carvalho, L.A.S.; Barbosa, C.C.F.; Novo, E.M.L.M.. [*Avalição da acurácia em produtos OLI/Landsat 8 em lagos amazônicos: Correção Atmosférica*](http://marte2.sid.inpe.br/rep/sid.inpe.br/marte2/2017/10.23.19.26.37?metadatarepository=sid.inpe.br/marte2/2017/10.23.19.26.38&ibiurl.backgroundlanguage=pt-BR&ibiurl.requiredsite=marte2.sid.inpe.br+802&requiredmirror=dpi.inpe.br/marte2/2013/05.17.15.03.08&searchsite=bibdigital.sid.inpe.br:80&searchmirror=sid.inpe.br/bibdigital@80/2006/04.07.15.50.13). In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (p. 926-933). São José dos Campos: INPE.
 
 Novo, E.M.L.M.; **Martins, V.S.**; Affonso, A.G.; Montanher, O.C.; de Carvalho, L.A.S.; Barbosa, C.C.F. [*Avalição de imagens WFI/CBERS-4 no estudo dos tipos de água da Reserva de Desenvolvimento Sustentável de Mamirauá (AM)*](http://marte2.sid.inpe.br/rep/sid.inpe.br/marte2/2017/10.23.19.28.32?metadatarepository=sid.inpe.br/marte2/2017/10.23.19.28.33&ibiurl.backgroundlanguage=pt-BR&ibiurl.requiredsite=marte2.sid.inpe.br+802&requiredmirror=dpi.inpe.br/marte2/2013/05.17.15.03.08&searchsite=bibdigital.sid.inpe.br:80&searchmirror=sid.inpe.br/bibdigital@80/2006/04.07.15.50.13). In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (p. 1020-1027). São José dos Campos: INPE.
