@@ -15,7 +15,7 @@ author_profile: true
 
 **Martins, V. S.**, Novo, E. M., Lyapustin, A., Aragão, L. E., Freitas, S. R., & Barbosa, C. C. (2018). [*Seasonal and interannual assessment of cloud cover and atmospheric constituents across the Amazon (2000–2015): Insights for remote sensing and climate analysis*](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=2312&amp;context=abe_eng_pubs). ISPRS Journal of Photogrammetry and Remote Sensing.
 
-**Martins, V. S.**, Lyapustin, A., de Carvalho, L. A. S., Barbosa, C. C. F., & Novo, E. M. L. M. (2017). [*Validation of high‐resolution MAIAC aerosol product over South America*](https://doi.org/10.1002/2016JD026301). Journal of Geophysical Research: Atmospheres, 122(14), 7537-7559.
+**Martins, V. S.**, Lyapustin, A., de Carvalho, L. A. S., Barbosa, C. C. F., & Novo, E. M. L. M. (2017). [*Validation of high‐resolution MAIAC aerosol product over South America*](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=2313&amp;context=abe_eng_pubs). Journal of Geophysical Research: Atmospheres, 122(14), 7537-7559.
 
 **Martins, V. S.**, Barbosa, C. C. F., de Carvalho, L. A. S., Jorge, D. S. F., Lobo, F. D. L., & Novo, E. M. L. D. M. (2017). [*Assessment of atmospheric correction methods for Sentinel-2 MSI images applied to Amazon floodplain lakes*](https://www.mdpi.com/2072-4292/9/4/322/html). Remote Sensing, 9(4), 322.
 
