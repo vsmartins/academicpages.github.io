@@ -20,6 +20,13 @@ Hello! I’m Vitor Martins, a young scientist in satellite remote sensing. I got
 During my master's degree, I had a great experience collecting field radiometric data in Mamiraua floodplain lakes [[**link**]](https://www.mamiraua.org.br/pt-br). This research was conducted by [**LabISA**](http://www.dpi.inpe.br/labisa/) team, under supervision of Dr. Claudio C. F. Barbosa and Dra. Evlyn M. L. M. Novo. The results of my thesis were partly available in this [**link**](http://www.dpi.inpe.br/atmc/index.php?LANGUAGE=EN). After that, I worked for six months in the industry (Imagem), applying remote sensing with python tools. Now, I'm a Ph.D. student at ABE department under supervision of Dr. Amy Kaleita. My current work is related to Deep learning applications, such as image classification using convolutional neural network. The ABE department has a great faculty team and a giant structure for students - I appreciate all over here! [[**ABE**]](https://www.abe.iastate.edu/abe-department/about-abe/rankings/). By the way, my hobbies include playing soccer, running, Netflix and eating cheese with Tostitos.
 
 # Recent News
+* **November 1, 2019**: Coming soon - 
+[*Exploring object-based convolutional neural network (OCNN) for large-area land cover mapping of high-resolution remote sensing data*]
+  <br />
+<p align="center">
+<img src="/images/cnn.jpeg">
+</p>
+
 * **April 30, 2019**: Weird and good April. I was elected as graduate member for **Tau Beta Pi** - engineering honor society.
 
 * **April 24, 2019**: A paper was accepted in the Atmospheric Research - 
