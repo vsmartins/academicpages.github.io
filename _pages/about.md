@@ -23,7 +23,7 @@ During my master's degree, I had a great experience collecting field radiometric
 * **November 1, 2019**: Coming soon - *Exploring object-based convolutional neural network (OCNN) for large-area land cover mapping of high-resolution remote sensing data*
   <br />
 <p align="center">
-<img src="/images/cnn.jpeg">
+<img src="/images/cnn.jpg" style="width: 550px;">
 </p>
 
 * **April 30, 2019**: Weird and good April. I was elected as graduate member for **Tau Beta Pi** - engineering honor society.
