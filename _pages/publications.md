@@ -25,21 +25,25 @@ Barbosa, C.C.F.; Novo, E.M.L.M.; **Martins, V.S.**. [*Introdução ao Sensoriame
 
 ## Conference proceedings
 
-Fassoni-Andrade, A. C.; Passaia, O. A.; **Martins, V.S.**; Paiva, R.C. D.. [*Estimativa da batimetria do reservatório de Sobradinho por imagens orbitais*](/files/SBSR2019_1.pdf). In Procedings of the XIX Brazilian Symposium on Remote Sensing - SBSR, Santos. São José dos Campos: INPE. Vol 17, 2019 - 96325.
+Fraga, R. S.; Guedes, H. A.S.; Caballero, C.B.; Mendes, K. G.P.; **Martins, V. S.**; Fassoni-Andrade, A.C.; Fonseca, M.O..(2019) [*Modelagem empírica de sólidos em suspensão na lagoa mirim, RS, utilizando dados do MSI/Sentinel-2*](/files/SBRH2019_2.pdf). In Procedings of the XXIII Brazilian Symposium on Water Resources.
 
-Maciel, D. A.; Junior, R. F.; Cairo, C. T.; de Carvalho, L. A. S.; Lobo, F. L.; Carlos, F. M.; **Martins, V.S.**; Barbosa, C. C. F.; Novo, E. M. L. M..[*Modeling suspended sediments in Amazon floodplains using orbital moderate resolution sensors*](/files/SBSR2019_2.pdf). In Procedings of the XIX Brazilian Symposium on Remote Sensing - SBSR, Santos. São José dos Campos: INPE. Vol 17, 2019 - 96330.
+Caballero, C.B.; Guedes, H.A.S.; Fraga, R.S.F.; Mendes, K.G.P; Fassoni-Andrade, A.C.; Martins, V.S..(2019) [*Sensoriamento remoto aplicado ao estudo de águas interiores: monitoramento de clorofila-a em uma lagoa subtropical*](/files/SBRH2019_1.pdf). In Procedings of the XXIII Brazilian Symposium on Water Resources.
 
-Carlos, F. M.; **Martins, V.S.**; Barbosa, C. C. F..[*Sistema semi-automático de correção atmosférica para multi-sensores orbitais*](/files/SBSR2019_3.pdf). In Procedings of the XIX Brazilian Symposium on Remote Sensing - SBSR, Santos. São José dos Campos: INPE. Vol 17, 2019 - 96336.
+Fassoni-Andrade, A. C.; Passaia, O. A.; **Martins, V.S.**; Paiva, R.C. D..(2019) [*Estimativa da batimetria do reservatório de Sobradinho por imagens orbitais*](/files/SBSR2019_1.pdf). In Procedings of the XIX Brazilian Symposium on Remote Sensing - SBSR, Santos. São José dos Campos: INPE. Vol 17, 2019 - 96325.
 
-**Martins, V.S.**; de Carvalho, L.A.S.; Barbosa, C.C.F.; Novo, E.M.L.M.. [*Avalição da acurácia em produtos OLI/Landsat 8 em lagos amazônicos: Correção Atmosférica*](/files/SBSR_2017_1.pdf). In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (p. 926-933). São José dos Campos: INPE.
+Maciel, D. A.; Junior, R. F.; Cairo, C. T.; de Carvalho, L. A. S.; Lobo, F. L.; Carlos, F. M.; **Martins, V.S.**; Barbosa, C. C. F.; Novo, E. M. L. M..(2019) [*Modeling suspended sediments in Amazon floodplains using orbital moderate resolution sensors*](/files/SBSR2019_2.pdf). In Procedings of the XIX Brazilian Symposium on Remote Sensing - SBSR, Santos. São José dos Campos: INPE. Vol 17, 2019 - 96330.
 
-Novo, E.M.L.M.; **Martins, V.S.**; Affonso, A.G.; Montanher, O.C.; de Carvalho, L.A.S.; Barbosa, C.C.F. [*Avalição de imagens WFI/CBERS-4 no estudo dos tipos de água da Reserva de Desenvolvimento Sustentável de Mamirauá (AM)*](/files/SBSR_2017_2.pdf). In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (p. 1020-1027). São José dos Campos: INPE.
+Carlos, F. M.; **Martins, V.S.**; Barbosa, C. C. F..(2019) [*Sistema semi-automático de correção atmosférica para multi-sensores orbitais*](/files/SBSR2019_3.pdf). In Procedings of the XIX Brazilian Symposium on Remote Sensing - SBSR, Santos. São José dos Campos: INPE. Vol 17, 2019 - 96336.
 
-Carvalho, L.A.S.; **Martins, V.S.**; Lobo, F.L.; Barbosa, C.C.F.; Novo, E.M.L.M.. [*Investigating empirical models to retrieve the backscattering slope from Landsat 8 Images - The case of Lago Grande Curuai*](/files/SBSR_2017_3.pdf). In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (p. 2067-2074). São José dos Campos: INPE.
+**Martins, V.S.**; de Carvalho, L.A.S.; Barbosa, C.C.F.; Novo, E.M.L.M..(2017) [*Avalição da acurácia em produtos OLI/Landsat 8 em lagos amazônicos: Correção Atmosférica*](/files/SBSR_2017_1.pdf). In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (p. 926-933). São José dos Campos: INPE.
 
-Ferreira, R. M. P.; Barbosa, C. C. F.; **Martins, V. S.**; Carvalho, L. A. S.; Jorge, D. S. F.; Silva, M. P. [*Aplicação do sensor MSI/Sentinel-2 na estimativa de componentes oticamente ativos em lagos de planície de inundação amazônica*]( /files/SBSR_2017_4.pdf). In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (p. 3687-3694). São José dos Campos: INPE.
+Novo, E.M.L.M.; **Martins, V.S.**; Affonso, A.G.; Montanher, O.C.; de Carvalho, L.A.S.; Barbosa, C.C.F.(2017) [*Avalição de imagens WFI/CBERS-4 no estudo dos tipos de água da Reserva de Desenvolvimento Sustentável de Mamirauá (AM)*](/files/SBSR_2017_2.pdf). In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (p. 1020-1027). São José dos Campos: INPE.
 
-Abe, C.A.; **Martins, V. S.**; Rosa, E.B.. [*Evaluation of two supervised classification techniques and the influences of thermal band application on target distinction: a case study of Santa Catarina island - Brazil*](/files/SBSR_2017_5.pdf). In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (p. 40-47). São José dos Campos: INPE.
+Carvalho, L.A.S.; **Martins, V.S.**; Lobo, F.L.; Barbosa, C.C.F.; Novo, E.M.L.M..(2017) [*Investigating empirical models to retrieve the backscattering slope from Landsat 8 Images - The case of Lago Grande Curuai*](/files/SBSR_2017_3.pdf). In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (p. 2067-2074). São José dos Campos: INPE.
+
+Ferreira, R. M. P.; Barbosa, C. C. F.; **Martins, V. S.**; Carvalho, L. A. S.; Jorge, D. S. F.; Silva, M. P.(2017) [*Aplicação do sensor MSI/Sentinel-2 na estimativa de componentes oticamente ativos em lagos de planície de inundação amazônica*]( /files/SBSR_2017_4.pdf). In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (p. 3687-3694). São José dos Campos: INPE.
+
+Abe, C.A.; **Martins, V. S.**; Rosa, E.B..(2017) [*Evaluation of two supervised classification techniques and the influences of thermal band application on target distinction: a case study of Santa Catarina island - Brazil*](/files/SBSR_2017_5.pdf). In Procedings of the XVIII Brazilian Symposium on Remote Sensing -- SBSR, Santos (p. 40-47). São José dos Campos: INPE.
 
 Guedes, H. A. S., Silva, D., Dergam, J., & **Martins, V. S.** (2016). [*Habitat de cinco espécies de peixes nativos do rio Formoso, Minas Gerais. Revista Brasileira de Engenharia e Sustentabilidade*](https://periodicos.ufpel.edu.br/ojs2/index.php/RBES/article/view/8180), 2(1), 33-42.
 
