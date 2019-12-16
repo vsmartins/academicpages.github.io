@@ -7,6 +7,8 @@ author_profile: true
 
 ## [Journal articles](https://scholar.google.com/citations?user=CLZIhCwAAAAJ&hl=en&oi=sra)
 
+Maciel, D. A., Novo, E. M. L. D. M., Barbosa, C. C. F., **Martins, V. S.**, Flores Júnior, R., Oliveira, A. H., ... & Lobo, F. D. L. (2019). [*Evaluating the potential of CubeSats for remote sensing reflectance retrieval over inland waters*](https://www.tandfonline.com/doi/abs/10.1080/2150704X.2019.1697003). International Journal of Remote Sensing, 41(7), 2807-2817.
+
 **Martins, V. S.**, Lyapustin, A., Wang, Y., Giles, D. M., Smirnov, A., Slutsker, I., & Korkin, S. (2019). [*Global validation of columnar water vapor derived from EOS MODIS-MAIAC algorithm against the ground-based AERONET observations*](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=2311&amp;context=abe_eng_pubs). Atmospheric Research, v. 225, p. 181-192.
 
 **Martins, V. S.**, Kaleita, A., Barbosa, C. C., Fassoni-Andrade, A. C., Lobo, F. L., & Novo, E. M.. (2019). [*Remote sensing of large reservoir in the drought years: Implications on surface water change and turbidity variability of Sobradinho reservoir (Northeast Brazil)*](https://www.sciencedirect.com/science/article/pii/S2352938518302647). Remote Sensing Applications: Society and Environment, 13, 275-288.
