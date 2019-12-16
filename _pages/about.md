@@ -33,7 +33,7 @@ During my master's degree, I had a great experience collecting field radiometric
   <br />  
 
 <p align="center">
-<img src="/images/amazon.png">
+<img src="/images/amazon.png" style="width: 450px;">
 </p>
 
 * **December 5, 2019**: I was selected by the department to receive the award *Harold & Katherine Guy Graduate Fellowship* for soil and water research. I thanks the ABE department for this award.
