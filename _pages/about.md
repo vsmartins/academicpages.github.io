@@ -36,6 +36,8 @@ During my master's degree, I had a great experience collecting field radiometric
 <img src="/images/amazon.png" style="width: 500px;">
 </p>
 
+* **March 10, 2020**: Soon we will release the CBERS-4 MUX surface reflectance products. The website is under development (https://cmpac.netlify.com/en/) and I'm glad to receive any feedback.
+
 * **December 5, 2019**: I was selected by the department to receive the award *Harold & Katherine Guy Graduate Fellowship* for soil and water research. I thanks the ABE department for this award.
 
 
