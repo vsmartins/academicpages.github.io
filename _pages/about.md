@@ -20,6 +20,9 @@ Hello! I’m Vitor Martins, a young scientist in satellite remote sensing. I got
 During my master's degree, I had a great experience collecting field radiometric data in Mamiraua floodplain lakes [[**link**]](https://www.mamiraua.org.br/pt-br). This research was conducted by [**LabISA**](http://www.dpi.inpe.br/labisa/) team, under supervision of Dr. Claudio C. F. Barbosa and Dra. Evlyn M. L. M. Novo. The results of my thesis were partly available in this [**link**](http://www.dpi.inpe.br/atmc/index.php?LANGUAGE=EN). After that, I worked for six months in the industry (Imagem), applying remote sensing with python tools. Now, I'm a Ph.D. candidate at ABE department under supervision of Dr. Amy Kaleita. My current work is related to Deep learning applications, such as image classification using convolutional neural network. The ABE department has a great faculty team and a giant structure for students - I appreciate all over here! [[**ABE**]](https://www.abe.iastate.edu/abe-department/about-abe/rankings/). By the way, my hobbies include playing soccer, running, Netflix and eating cheese with Tostitos.
 
 # Recent News
+
+* **July 1, 2020**: The beta version of CBERS-4 MUX surface reflectance products is available at [CMPAC website](https://cmpac.netlify.com/en/). Please send me feedback.
+
 * **December 09, 2019**: A paper of Maciel et al. was accepted in the International Journal of Remote Sensing - 
 [*Evaluating the potential of CubeSats for remote sensing reflectance retrieval over inland waters*](https://doi.org/10.1080/2150704X.2019.1697003).
   <br />
@@ -36,7 +39,6 @@ During my master's degree, I had a great experience collecting field radiometric
 <img src="/images/amazon.png" style="width: 500px;">
 </p>
 
-* **March 10, 2020**: Soon we will release the CBERS-4 MUX surface reflectance products. The website is under development (https://cmpac.netlify.com/en/) and I'm glad to receive any feedback.
 
 * **December 5, 2019**: I was selected by the department to receive the award *Harold & Katherine Guy Graduate Fellowship* for soil and water research. I thanks the ABE department for this award.
 
